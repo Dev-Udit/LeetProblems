@@ -7,6 +7,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
