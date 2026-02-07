@@ -18,11 +18,13 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -39,4 +41,8 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
+## String
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
