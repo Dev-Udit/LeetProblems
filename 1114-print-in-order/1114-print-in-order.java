@@ -1,27 +1,25 @@
+import java.util.concurrent.Semaphore;
+
 class Foo {
-    private int step = 1;
+
+    private Semaphore s1 = new Semaphore(0);
+    private Semaphore s2 = new Semaphore(0);
 
     public Foo() {}
 
-    public synchronized void first(Runnable printFirst) throws InterruptedException {
+    public void first(Runnable printFirst) throws InterruptedException {
         printFirst.run();
-        step = 2;
-        notifyAll();
+        s1.release(); // allow second()
     }
 
-    public synchronized void second(Runnable printSecond) throws InterruptedException {
-        while(step != 2) {
-            wait();
-        }
+    public void second(Runnable printSecond) throws InterruptedException {
+        s1.acquire(); // wait for first()
         printSecond.run();
-        step = 3;
-        notifyAll();
+        s2.release(); // allow third()
     }
 
-    public synchronized void third(Runnable printThird) throws InterruptedException {
-        while(step != 3) {
-            wait();
-        }
+    public void third(Runnable printThird) throws InterruptedException {
+        s2.acquire(); // wait for second()
         printThird.run();
     }
 }
