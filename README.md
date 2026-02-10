@@ -37,6 +37,7 @@ solving leetcode problems with optimal solution
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@ solving leetcode problems with optimal solution
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
@@ -102,4 +104,8 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
