@@ -16,6 +16,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -88,12 +90,14 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev-Udit/LeetProblems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev-Udit/LeetProblems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 ## Rolling Hash
 |  |
 | ------- |
