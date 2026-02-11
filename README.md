@@ -20,12 +20,14 @@ solving leetcode problems with optimal solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -50,6 +52,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
