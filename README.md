@@ -6,6 +6,7 @@ solving leetcode problems with optimal solution
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
@@ -141,4 +142,5 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
