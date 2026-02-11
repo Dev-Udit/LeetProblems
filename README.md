@@ -13,6 +13,7 @@ solving leetcode problems with optimal solution
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -122,14 +124,17 @@ solving leetcode problems with optimal solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
 |  |
 | ------- |
