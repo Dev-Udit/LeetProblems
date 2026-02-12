@@ -60,6 +60,7 @@ solving leetcode problems with optimal solution
 | [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
@@ -126,6 +127,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -160,4 +162,12 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
