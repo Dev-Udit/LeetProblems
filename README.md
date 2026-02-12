@@ -10,6 +10,7 @@ solving leetcode problems with optimal solution
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
@@ -71,6 +72,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
@@ -157,6 +159,7 @@ solving leetcode problems with optimal solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Graph Theory
 |  |
@@ -170,4 +173,12 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
