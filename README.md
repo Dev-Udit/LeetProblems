@@ -85,6 +85,7 @@ solving leetcode problems with optimal solution
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
@@ -181,11 +182,13 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Counting
 |  |
@@ -204,4 +207,8 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
