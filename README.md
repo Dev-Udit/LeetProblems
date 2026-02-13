@@ -33,6 +33,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Dev-Udit/LeetProblems/tree/master/0232-implement-queue-using-stacks) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -66,6 +67,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
@@ -74,6 +76,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
@@ -83,6 +86,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
@@ -110,6 +114,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev-Udit/LeetProblems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0328-odd-even-linked-list) |
 ## Recursion
