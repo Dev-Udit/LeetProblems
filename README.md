@@ -11,6 +11,7 @@ solving leetcode problems with optimal solution
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
@@ -180,6 +181,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Graph Theory
 |  |
@@ -201,4 +203,5 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
