@@ -66,6 +66,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -73,6 +74,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
@@ -81,6 +83,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Concurrency
