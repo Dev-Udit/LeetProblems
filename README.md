@@ -29,6 +29,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [0799-champagne-tower](https://github.com/Dev-Udit/LeetProblems/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 ## Stack
