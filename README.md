@@ -51,6 +51,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
@@ -63,6 +64,7 @@ solving leetcode problems with optimal solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
@@ -153,6 +155,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
