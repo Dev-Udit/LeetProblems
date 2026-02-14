@@ -35,12 +35,13 @@ class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         int n = lists.length;
         if(n==0)return null;
-        ListNode list1 = lists[0];
-        for(int i=1;i<n;i++){
-            list1 = mergeTwoLists(list1 , lists[i]);
-        }
 
-        return list1;
+        for(int step = 1; step < n; step *= 2){
+            for(int i = 0; i + step < n; i += 2 * step){
+                lists[i] = mergeTwoLists(lists[i], lists[i + step]);
+            }
+        }
+        return lists[0];
         
     }
 }
