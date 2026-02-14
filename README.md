@@ -77,6 +77,7 @@ solving leetcode problems with optimal solution
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dev-Udit/LeetProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
@@ -91,6 +92,7 @@ solving leetcode problems with optimal solution
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dev-Udit/LeetProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
@@ -102,6 +104,7 @@ solving leetcode problems with optimal solution
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dev-Udit/LeetProblems/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dev-Udit/LeetProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Concurrency
 |  |
@@ -124,6 +127,7 @@ solving leetcode problems with optimal solution
 | [0098-validate-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Dev-Udit/LeetProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
