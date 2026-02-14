@@ -110,6 +110,7 @@ solving leetcode problems with optimal solution
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -128,6 +129,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev-Udit/LeetProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
@@ -227,9 +229,14 @@ solving leetcode problems with optimal solution
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Number Theory
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
