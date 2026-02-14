@@ -1,21 +1,17 @@
 class Solution {
-    public boolean isDivides(int[]arr,int k){
-        for(int ele:arr){
-            if(ele%k != 0)return false;
-        }
-        return true;
+    public int gcd(int a,int b){
+        return (b==0)? a:gcd(b,a%b);
     }
     public int minOperations(int[] nums, int[] numsDivide) {
-        TreeMap<Integer, Integer>map = new TreeMap<>();
-        for(int ele:nums){
-            map.put(ele,map.getOrDefault(ele,0)+1);
+        
+        int g = numsDivide[0];
+        for(int i=1;i<numsDivide.length;i++){
+            g = gcd(g,numsDivide[i]);
         }
-        int deletion = 0;
-        for(int ele:map.keySet()){
-            if(isDivides(numsDivide,ele)){
-                return deletion;
-            }
-            deletion += map.get(ele);
+
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            if(g % nums[i]==0)return i;
         }
         return -1;
     }
