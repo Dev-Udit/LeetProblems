@@ -9,6 +9,7 @@ solving leetcode problems with optimal solution
 | [0039-combination-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Dev-Udit/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Udit/LeetProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Dev-Udit/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Udit/LeetProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0799-champagne-tower](https://github.com/Dev-Udit/LeetProblems/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -129,6 +131,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Dev-Udit/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
