@@ -6,6 +6,7 @@ solving leetcode problems with optimal solution
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
@@ -28,6 +29,7 @@ solving leetcode problems with optimal solution
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
@@ -139,6 +141,7 @@ solving leetcode problems with optimal solution
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
