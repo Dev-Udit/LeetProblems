@@ -9,6 +9,7 @@ solving leetcode problems with optimal solution
 | [0039-combination-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
+| [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
@@ -25,6 +26,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@ solving leetcode problems with optimal solution
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
