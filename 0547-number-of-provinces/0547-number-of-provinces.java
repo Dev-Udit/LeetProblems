@@ -3,15 +3,11 @@ class Solution {
     public void dfs(int src,int[][] isConnected, boolean vis[]){
         vis[src] = true;
 
-        for(int i=0;i<isConnected.length;i++){
-            if(i != src)continue;
-            for(int j=0;j<isConnected[0].length;j++){
-                if(isConnected[i][j] == 1 && !vis[j]){
-                    dfs(j, isConnected, vis);
-                }
+        for(int j=0;j<isConnected[0].length;j++){
+            if(isConnected[src][j] == 1 && !vis[j]){
+                dfs(j, isConnected, vis);
             }
-        }
-
+        }   
         
     }
 
