@@ -95,6 +95,7 @@ solving leetcode problems with optimal solution
 | [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dev-Udit/LeetProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/Dev-Udit/LeetProblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -199,6 +200,7 @@ solving leetcode problems with optimal solution
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Dev-Udit/LeetProblems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -207,6 +209,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0207-course-schedule](https://github.com/Dev-Udit/LeetProblems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Dev-Udit/LeetProblems/tree/master/0547-number-of-provinces) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Counting
 |  |
@@ -220,6 +223,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Dev-Udit/LeetProblems/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
