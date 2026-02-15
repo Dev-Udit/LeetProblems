@@ -15,6 +15,7 @@ solving leetcode problems with optimal solution
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
@@ -172,6 +173,7 @@ solving leetcode problems with optimal solution
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -237,6 +239,7 @@ solving leetcode problems with optimal solution
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Topological Sort
 |  |
 | ------- |
@@ -247,6 +250,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
