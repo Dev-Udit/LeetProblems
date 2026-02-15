@@ -10,6 +10,7 @@ solving leetcode problems with optimal solution
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
@@ -59,6 +60,7 @@ solving leetcode problems with optimal solution
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
@@ -120,6 +122,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -167,6 +170,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
@@ -216,6 +220,7 @@ solving leetcode problems with optimal solution
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
