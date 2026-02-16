@@ -1,13 +1,14 @@
 class Solution {
     public int reverseBits(int n) {
-        int ans = 0;
+        String bin = Integer.toBinaryString(n);
 
-        for (int i = 0; i < 32; i++) {
-            ans <<= 1;          // shift left
-            ans |= (n & 1);     // add last bit of n
-            n >>= 1;            // shift n right
+        //add zeros to make it 32 bit
+        while(bin.length() < 32){
+            bin = "0" + bin;
         }
 
-        return ans;
+        StringBuilder ans = new StringBuilder(bin).reverse();
+
+        return (int)Long.parseLong(ans.toString() , 2);
     }
 }
