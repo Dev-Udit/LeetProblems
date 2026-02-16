@@ -135,6 +135,7 @@ solving leetcode problems with optimal solution
 | [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Dev-Udit/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -283,4 +284,5 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
