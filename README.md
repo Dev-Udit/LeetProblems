@@ -215,6 +215,7 @@ solving leetcode problems with optimal solution
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
+| [0401-binary-watch](https://github.com/Dev-Udit/LeetProblems/tree/master/0401-binary-watch) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -285,4 +286,5 @@ solving leetcode problems with optimal solution
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Dev-Udit/LeetProblems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
