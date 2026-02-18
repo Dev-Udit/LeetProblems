@@ -287,4 +287,5 @@ solving leetcode problems with optimal solution
 | [0136-single-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Dev-Udit/LeetProblems/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
