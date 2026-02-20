@@ -73,6 +73,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
+| [0761-special-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/0761-special-binary-string) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 ## String
@@ -83,6 +84,7 @@ solving leetcode problems with optimal solution
 | [0032-longest-valid-parentheses](https://github.com/Dev-Udit/LeetProblems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/Dev-Udit/LeetProblems/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/0761-special-binary-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -138,6 +140,7 @@ solving leetcode problems with optimal solution
 | [0053-maximum-subarray](https://github.com/Dev-Udit/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
