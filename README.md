@@ -270,6 +270,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0050-powx-n](https://github.com/Dev-Udit/LeetProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Udit/LeetProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
@@ -293,4 +294,5 @@ solving leetcode problems with optimal solution
 | [0190-reverse-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Dev-Udit/LeetProblems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Udit/LeetProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
