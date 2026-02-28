@@ -63,6 +63,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dev-Udit/LeetProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -279,6 +280,7 @@ solving leetcode problems with optimal solution
 | [0050-powx-n](https://github.com/Dev-Udit/LeetProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Udit/LeetProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
@@ -305,4 +307,5 @@ solving leetcode problems with optimal solution
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Udit/LeetProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dev-Udit/LeetProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
