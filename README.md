@@ -64,6 +64,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dev-Udit/LeetProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
 ## Sliding Window
@@ -93,6 +94,7 @@ solving leetcode problems with optimal solution
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dev-Udit/LeetProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
@@ -185,6 +187,7 @@ solving leetcode problems with optimal solution
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev-Udit/LeetProblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Dev-Udit/LeetProblems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
