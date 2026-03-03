@@ -1,21 +1,17 @@
 class Solution {
-    public StringBuilder invert(StringBuilder sb){
-        for(int i=0;i<sb.length();i++){
-            if(sb.charAt(i)=='0')sb.setCharAt(i, '1');
-            else sb.setCharAt(i, '0');;
-        }
-        return sb;
-    }
-
     public char findKthBit(int n, int k) {
-        StringBuilder sb = new StringBuilder("0");
-        for(int i=1;i<n;i++){
-            StringBuilder r = new StringBuilder(sb);
-            StringBuilder s = sb.append("1").append(invert(r).reverse());
-            sb = s;  
-            
+        if(n == 1)return '0';
+        int len = (1 << n) - 1;  //pow(2,n)-1
+
+        if(k < Math.ceil(len/2.0)){
+            return findKthBit(n-1 , k);
+        }
+        else if(k == Math.ceil(len/2.0)) return '1';
+
+        else {
+            char ch = findKthBit(n-1 , len-(k-1));
+            return (ch == '0') ? '1' : '0';
         }
         
-        return sb.charAt(k-1);
     }
 }
