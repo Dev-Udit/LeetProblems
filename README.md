@@ -173,6 +173,7 @@ solving leetcode problems with optimal solution
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -181,6 +182,7 @@ solving leetcode problems with optimal solution
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dev-Udit/LeetProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Linked List
 |  |
 | ------- |
@@ -268,6 +270,7 @@ solving leetcode problems with optimal solution
 | [0210-course-schedule-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Dev-Udit/LeetProblems/tree/master/0547-number-of-provinces) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Counting
 |  |
 | ------- |
@@ -283,6 +286,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dev-Udit/LeetProblems/tree/master/0547-number-of-provinces) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -332,4 +336,8 @@ solving leetcode problems with optimal solution
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dev-Udit/LeetProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
