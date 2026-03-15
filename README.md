@@ -228,6 +228,7 @@ solving leetcode problems with optimal solution
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Dev-Udit/LeetProblems/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -241,6 +242,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Dev-Udit/LeetProblems/tree/master/0232-implement-queue-using-stacks) |
+| [1622-fancy-sequence](https://github.com/Dev-Udit/LeetProblems/tree/master/1622-fancy-sequence) |
 ## Queue
 |  |
 | ------- |
@@ -309,6 +311,7 @@ solving leetcode problems with optimal solution
 | [0050-powx-n](https://github.com/Dev-Udit/LeetProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Udit/LeetProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/Dev-Udit/LeetProblems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
