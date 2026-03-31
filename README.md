@@ -132,6 +132,7 @@ solving leetcode problems with optimal solution
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Udit/LeetProblems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Dev-Udit/LeetProblems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dev-Udit/LeetProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
@@ -200,6 +201,7 @@ solving leetcode problems with optimal solution
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dev-Udit/LeetProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Udit/LeetProblems/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dev-Udit/LeetProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
@@ -235,6 +237,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Dev-Udit/LeetProblems/tree/master/1392-longest-happy-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dev-Udit/LeetProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
