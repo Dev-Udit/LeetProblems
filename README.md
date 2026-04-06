@@ -18,6 +18,7 @@ solving leetcode problems with optimal solution
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
+| [0874-walking-robot-simulation](https://github.com/Dev-Udit/LeetProblems/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Dev-Udit/LeetProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -91,6 +92,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Udit/LeetProblems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Dev-Udit/LeetProblems/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dev-Udit/LeetProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -262,6 +264,7 @@ solving leetcode problems with optimal solution
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dev-Udit/LeetProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/Dev-Udit/LeetProblems/tree/master/0874-walking-robot-simulation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
