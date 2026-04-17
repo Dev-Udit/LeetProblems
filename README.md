@@ -55,6 +55,7 @@ solving leetcode problems with optimal solution
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Udit/LeetProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -294,6 +295,7 @@ solving leetcode problems with optimal solution
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Udit/LeetProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -410,6 +412,7 @@ solving leetcode problems with optimal solution
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Udit/LeetProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Udit/LeetProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
