@@ -37,6 +37,7 @@ solving leetcode problems with optimal solution
 | [2463-minimum-total-distance-traveled](https://github.com/Dev-Udit/LeetProblems/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dev-Udit/LeetProblems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Udit/LeetProblems/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/Dev-Udit/LeetProblems/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Dev-Udit/LeetProblems/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Dev-Udit/LeetProblems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Udit/LeetProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -295,6 +296,7 @@ solving leetcode problems with optimal solution
 | [0874-walking-robot-simulation](https://github.com/Dev-Udit/LeetProblems/tree/master/0874-walking-robot-simulation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dev-Udit/LeetProblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/Dev-Udit/LeetProblems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/Dev-Udit/LeetProblems/tree/master/3488-closest-equal-element-queries) |
@@ -315,6 +317,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/Dev-Udit/LeetProblems/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Dev-Udit/LeetProblems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dev-Udit/LeetProblems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
