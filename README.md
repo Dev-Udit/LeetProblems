@@ -46,6 +46,7 @@ solving leetcode problems with optimal solution
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dev-Udit/LeetProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Udit/LeetProblems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Dev-Udit/LeetProblems/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -139,6 +140,7 @@ solving leetcode problems with optimal solution
 | [2463-minimum-total-distance-traveled](https://github.com/Dev-Udit/LeetProblems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Dev-Udit/LeetProblems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dev-Udit/LeetProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Udit/LeetProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -255,6 +257,7 @@ solving leetcode problems with optimal solution
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dev-Udit/LeetProblems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dev-Udit/LeetProblems/tree/master/1382-balance-a-binary-search-tree) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Udit/LeetProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Dev-Udit/LeetProblems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Udit/LeetProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -427,6 +430,7 @@ solving leetcode problems with optimal solution
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Udit/LeetProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Udit/LeetProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dev-Udit/LeetProblems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
@@ -464,4 +468,8 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev-Udit/LeetProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
