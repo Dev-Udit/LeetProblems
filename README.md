@@ -17,6 +17,7 @@ solving leetcode problems with optimal solution
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Dev-Udit/LeetProblems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
+| [0396-rotate-function](https://github.com/Dev-Udit/LeetProblems/tree/master/0396-rotate-function) |
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
 | [0874-walking-robot-simulation](https://github.com/Dev-Udit/LeetProblems/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
@@ -83,6 +84,7 @@ solving leetcode problems with optimal solution
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dev-Udit/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Udit/LeetProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/Dev-Udit/LeetProblems/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/Dev-Udit/LeetProblems/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Dev-Udit/LeetProblems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Dev-Udit/LeetProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -440,6 +442,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0050-powx-n](https://github.com/Dev-Udit/LeetProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/Dev-Udit/LeetProblems/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Udit/LeetProblems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/Dev-Udit/LeetProblems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
