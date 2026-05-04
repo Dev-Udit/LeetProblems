@@ -10,6 +10,7 @@ solving leetcode problems with optimal solution
 | [0039-combination-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dev-Udit/LeetProblems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Dev-Udit/LeetProblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dev-Udit/LeetProblems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Udit/LeetProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -409,6 +410,7 @@ solving leetcode problems with optimal solution
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dev-Udit/LeetProblems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Dev-Udit/LeetProblems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Dev-Udit/LeetProblems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Dev-Udit/LeetProblems/tree/master/0994-rotting-oranges) |
@@ -441,6 +443,7 @@ solving leetcode problems with optimal solution
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Dev-Udit/LeetProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dev-Udit/LeetProblems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Dev-Udit/LeetProblems/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Dev-Udit/LeetProblems/tree/master/0396-rotate-function) |
