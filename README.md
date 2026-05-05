@@ -73,6 +73,7 @@ solving leetcode problems with optimal solution
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Dev-Udit/LeetProblems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Dev-Udit/LeetProblems/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0696-count-binary-substrings](https://github.com/Dev-Udit/LeetProblems/tree/master/0696-count-binary-substrings) |
@@ -279,6 +280,7 @@ solving leetcode problems with optimal solution
 | [0021-merge-two-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dev-Udit/LeetProblems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0328-odd-even-linked-list) |
