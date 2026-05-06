@@ -32,6 +32,7 @@ solving leetcode problems with optimal solution
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dev-Udit/LeetProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dev-Udit/LeetProblems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Udit/LeetProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Dev-Udit/LeetProblems/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dev-Udit/LeetProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1980-find-unique-binary-string) |
@@ -78,6 +79,7 @@ solving leetcode problems with optimal solution
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0696-count-binary-substrings](https://github.com/Dev-Udit/LeetProblems/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Udit/LeetProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Dev-Udit/LeetProblems/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Udit/LeetProblems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -422,6 +424,7 @@ solving leetcode problems with optimal solution
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dev-Udit/LeetProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Dev-Udit/LeetProblems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dev-Udit/LeetProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/Dev-Udit/LeetProblems/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dev-Udit/LeetProblems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Udit/LeetProblems/tree/master/2573-find-the-string-with-lcp) |
