@@ -57,6 +57,7 @@ solving leetcode problems with optimal solution
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dev-Udit/LeetProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Udit/LeetProblems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -323,6 +324,7 @@ solving leetcode problems with optimal solution
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3488-closest-equal-element-queries](https://github.com/Dev-Udit/LeetProblems/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -382,6 +384,7 @@ solving leetcode problems with optimal solution
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Graph Theory
 |  |
 | ------- |
@@ -463,6 +466,7 @@ solving leetcode problems with optimal solution
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Udit/LeetProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Udit/LeetProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dev-Udit/LeetProblems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
@@ -475,6 +479,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Merge Sort
 |  |
 | ------- |
