@@ -63,6 +63,7 @@ solving leetcode problems with optimal solution
 | [3093-longest-common-suffix-queries](https://github.com/Dev-Udit/LeetProblems/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Dev-Udit/LeetProblems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev-Udit/LeetProblems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Udit/LeetProblems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -506,6 +507,7 @@ solving leetcode problems with optimal solution
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Udit/LeetProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Udit/LeetProblems/tree/master/2965-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Dev-Udit/LeetProblems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
