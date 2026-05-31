@@ -43,6 +43,7 @@ solving leetcode problems with optimal solution
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Dev-Udit/LeetProblems/tree/master/1980-find-unique-binary-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Udit/LeetProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Dev-Udit/LeetProblems/tree/master/2126-destroying-asteroids) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev-Udit/LeetProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dev-Udit/LeetProblems/tree/master/2463-minimum-total-distance-traveled) |
@@ -173,6 +174,7 @@ solving leetcode problems with optimal solution
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Dev-Udit/LeetProblems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dev-Udit/LeetProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2126-destroying-asteroids](https://github.com/Dev-Udit/LeetProblems/tree/master/2126-destroying-asteroids) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2463-minimum-total-distance-traveled](https://github.com/Dev-Udit/LeetProblems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Dev-Udit/LeetProblems/tree/master/2751-robot-collisions) |
@@ -292,6 +294,7 @@ solving leetcode problems with optimal solution
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Dev-Udit/LeetProblems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Udit/LeetProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Dev-Udit/LeetProblems/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Udit/LeetProblems/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dev-Udit/LeetProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
