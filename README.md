@@ -74,6 +74,7 @@ solving leetcode problems with optimal solution
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dev-Udit/LeetProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Udit/LeetProblems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -99,6 +100,7 @@ solving leetcode problems with optimal solution
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Udit/LeetProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Dev-Udit/LeetProblems/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/Dev-Udit/LeetProblems/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Udit/LeetProblems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -184,6 +186,7 @@ solving leetcode problems with optimal solution
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dev-Udit/LeetProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dev-Udit/LeetProblems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Udit/LeetProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
@@ -301,6 +304,7 @@ solving leetcode problems with optimal solution
 | [2573-find-the-string-with-lcp](https://github.com/Dev-Udit/LeetProblems/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dev-Udit/LeetProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -315,6 +319,7 @@ solving leetcode problems with optimal solution
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Dev-Udit/LeetProblems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Udit/LeetProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Linked List
 |  |
