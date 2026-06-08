@@ -45,6 +45,7 @@ solving leetcode problems with optimal solution
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Udit/LeetProblems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Dev-Udit/LeetProblems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev-Udit/LeetProblems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dev-Udit/LeetProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev-Udit/LeetProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Dev-Udit/LeetProblems/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -101,6 +102,7 @@ solving leetcode problems with optimal solution
 | [0696-count-binary-substrings](https://github.com/Dev-Udit/LeetProblems/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Udit/LeetProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Dev-Udit/LeetProblems/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dev-Udit/LeetProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Dev-Udit/LeetProblems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Udit/LeetProblems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -158,6 +160,7 @@ solving leetcode problems with optimal solution
 | [1914-cyclically-rotating-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dev-Udit/LeetProblems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dev-Udit/LeetProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Dev-Udit/LeetProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Dev-Udit/LeetProblems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dev-Udit/LeetProblems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
