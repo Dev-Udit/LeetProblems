@@ -85,6 +85,7 @@ solving leetcode problems with optimal solution
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Dev-Udit/LeetProblems/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Udit/LeetProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -314,6 +315,7 @@ solving leetcode problems with optimal solution
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dev-Udit/LeetProblems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Dev-Udit/LeetProblems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -394,6 +396,7 @@ solving leetcode problems with optimal solution
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Dev-Udit/LeetProblems/tree/master/1622-fancy-sequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -543,6 +546,7 @@ solving leetcode problems with optimal solution
 | [0023-merge-k-sorted-lists](https://github.com/Dev-Udit/LeetProblems/tree/master/0023-merge-k-sorted-lists) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Dev-Udit/LeetProblems/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Number Theory
 |  |
 | ------- |
