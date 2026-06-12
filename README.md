@@ -75,6 +75,7 @@ solving leetcode problems with optimal solution
 | [3488-closest-equal-element-queries](https://github.com/Dev-Udit/LeetProblems/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dev-Udit/LeetProblems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -129,6 +130,7 @@ solving leetcode problems with optimal solution
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev-Udit/LeetProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dev-Udit/LeetProblems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/Dev-Udit/LeetProblems/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Udit/LeetProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -248,6 +250,7 @@ solving leetcode problems with optimal solution
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dev-Udit/LeetProblems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +274,7 @@ solving leetcode problems with optimal solution
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Dev-Udit/LeetProblems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Dev-Udit/LeetProblems/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -538,6 +542,7 @@ solving leetcode problems with optimal solution
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dev-Udit/LeetProblems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Dev-Udit/LeetProblems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Dev-Udit/LeetProblems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -573,6 +578,7 @@ solving leetcode problems with optimal solution
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dev-Udit/LeetProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Dev-Udit/LeetProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dev-Udit/LeetProblems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
