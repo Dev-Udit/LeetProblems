@@ -104,6 +104,7 @@ solving leetcode problems with optimal solution
 | [0696-count-binary-substrings](https://github.com/Dev-Udit/LeetProblems/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Dev-Udit/LeetProblems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Dev-Udit/LeetProblems/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dev-Udit/LeetProblems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Dev-Udit/LeetProblems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -146,6 +147,7 @@ solving leetcode problems with optimal solution
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Dev-Udit/LeetProblems/tree/master/0232-implement-queue-using-stacks) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dev-Udit/LeetProblems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Dev-Udit/LeetProblems/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -348,6 +350,7 @@ solving leetcode problems with optimal solution
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Dev-Udit/LeetProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
