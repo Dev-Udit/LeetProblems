@@ -138,6 +138,7 @@ solving leetcode problems with optimal solution
 | [3640-trionic-array-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/Dev-Udit/LeetProblems/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dev-Udit/LeetProblems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Dev-Udit/LeetProblems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -433,6 +434,7 @@ solving leetcode problems with optimal solution
 | [3225-maximum-score-from-grid-operations](https://github.com/Dev-Udit/LeetProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dev-Udit/LeetProblems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Dev-Udit/LeetProblems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
